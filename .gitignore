@@ -5,3 +5,5 @@
 *.so
 tags
 !.gitignore
+abduco
+config.mk
